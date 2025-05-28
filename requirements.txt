@@ -1,0 +1,11 @@
+dotenv
+pandas
+scikit-learn
+matplotlib
+numpy
+
+langchain-chroma
+langchain-openai
+langchain-ollama
+langchain-google-genai
+langgraph
